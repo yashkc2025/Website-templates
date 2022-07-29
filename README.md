@@ -4,5 +4,6 @@
 <img src="https://github.com/yashkc2025/Website-templates/blob/main/yellow-port/yellow-UX-portfolio.png" width=500px, height="auto">
 
 
-<h3>dark-gra-st-dev-portfolio</h3>
+<h3>2.dark-gra-st-dev-portfolio</h3>
 <img src="https://github.com/yashkc2025/Website-templates/blob/main/dark-gra-st-dev-portfolio/1.png" width=500px, height="auto">
+<img src="https://github.com/yashkc2025/Website-templates/blob/main/dark-gra-st-dev-portfolio/2.png" width=500px, height="auto">
