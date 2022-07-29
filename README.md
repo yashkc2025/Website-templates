@@ -5,5 +5,4 @@
 
 
 <h3>2.dark-gra-st-dev-portfolio</h3>
-<img src="https://github.com/yashkc2025/Website-templates/blob/main/dark-gra-st-dev-portfolio/1.png" width=500px, height="auto">
-<img src="https://github.com/yashkc2025/Website-templates/blob/main/dark-gra-st-dev-portfolio/2.png" width=500px, height="auto" margin-top=0px>
+<img src="https://github.com/yashkc2025/Website-templates/blob/main/dark-gra-st-dev-portfolio/1.png" width=500px, height="auto"><img src="https://github.com/yashkc2025/Website-templates/blob/main/dark-gra-st-dev-portfolio/2.png" width=500px, height="auto">
